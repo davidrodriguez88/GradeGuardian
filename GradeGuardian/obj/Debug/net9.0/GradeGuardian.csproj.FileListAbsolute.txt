@@ -1,0 +1,15 @@
+C:\Users\david\repos\GradeGuardian\GradeGuardian\bin\Debug\net9.0\GradeGuardian.exe
+C:\Users\david\repos\GradeGuardian\GradeGuardian\bin\Debug\net9.0\GradeGuardian.deps.json
+C:\Users\david\repos\GradeGuardian\GradeGuardian\bin\Debug\net9.0\GradeGuardian.runtimeconfig.json
+C:\Users\david\repos\GradeGuardian\GradeGuardian\bin\Debug\net9.0\GradeGuardian.dll
+C:\Users\david\repos\GradeGuardian\GradeGuardian\bin\Debug\net9.0\GradeGuardian.pdb
+C:\Users\david\repos\GradeGuardian\GradeGuardian\obj\Debug\net9.0\GradeGuardian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\repos\GradeGuardian\GradeGuardian\obj\Debug\net9.0\GradeGuardian.AssemblyInfoInputs.cache
+C:\Users\david\repos\GradeGuardian\GradeGuardian\obj\Debug\net9.0\GradeGuardian.AssemblyInfo.cs
+C:\Users\david\repos\GradeGuardian\GradeGuardian\obj\Debug\net9.0\GradeGuardian.csproj.CoreCompileInputs.cache
+C:\Users\david\repos\GradeGuardian\GradeGuardian\obj\Debug\net9.0\GradeGuardian.sourcelink.json
+C:\Users\david\repos\GradeGuardian\GradeGuardian\obj\Debug\net9.0\GradeGuardian.dll
+C:\Users\david\repos\GradeGuardian\GradeGuardian\obj\Debug\net9.0\refint\GradeGuardian.dll
+C:\Users\david\repos\GradeGuardian\GradeGuardian\obj\Debug\net9.0\GradeGuardian.pdb
+C:\Users\david\repos\GradeGuardian\GradeGuardian\obj\Debug\net9.0\GradeGuardian.genruntimeconfig.cache
+C:\Users\david\repos\GradeGuardian\GradeGuardian\obj\Debug\net9.0\ref\GradeGuardian.dll
